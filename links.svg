@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" role="img" aria-label="Capa ilustrativa de LINKS">
+ <rect width="800" height="400" fill="#fff8fc"/>
+ <circle cx="742" cy="44" r="106" fill="#d9b2ec" opacity=".3"/>
+ <circle cx="32" cy="363" r="123" fill="#d9b2ec" opacity=".28"/>
+ <rect x="85" y="55" width="630" height="285" rx="22" fill="#fff" stroke="#ecc9da" stroke-width="6"/>
+ <path d="M107 55h585a23 23 0 0 1 23 23v35H85V78a23 23 0 0 1 22-23z" fill="#d9b2ec"/>
+ <circle cx="117" cy="84" r="11" fill="#fff" opacity=".9"/><circle cx="152" cy="84" r="11" fill="#fff" opacity=".8"/><circle cx="187" cy="84" r="11" fill="#fff" opacity=".7"/>
+ <rect x="125" y="152" width="246" height="23" rx="11" fill="#eeb0cc"/>
+ <rect x="125" y="194" width="332" height="11" rx="5" fill="#eed9e4"/>
+ <rect x="125" y="218" width="280" height="11" rx="5" fill="#eed9e4"/>
+ <rect x="125" y="250" width="146" height="33" rx="10" fill="#c93b7e"/>
+ <rect x="505" y="152" width="158" height="132" rx="19" fill="#d9b2ec" opacity=".8"/>
+ <text x="584" y="226" fill="#fff" text-anchor="middle" font-family="Arial" font-size="45" font-weight="bold">&lt;/&gt;</text>
+ <text x="400" y="377" fill="#9c4070" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">LINKS • Navegação • CAPA ILUSTRATIVA</text>
+ </svg>
